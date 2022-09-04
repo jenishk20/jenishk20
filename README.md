@@ -23,4 +23,4 @@
 <p><img src="https://activity-graph.herokuapp.com/graph?username=jenishk20&theme=github-light"></p>
 
 <br>
-<p><img src="https://raw.githubusercontent.com/jenishk20/cf-stats/main/output/light_card.svg"></p>
+
