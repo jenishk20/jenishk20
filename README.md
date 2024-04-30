@@ -22,5 +22,19 @@
 <br>
 <p><img src="https://activity-graph.herokuapp.com/graph?username=jenishk20&theme=github-light"></p>
 
+
+# 💻 Featured YouTube Videos
+<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
+<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+<!-- BEGIN YOUTUBE-CARDS -->
+[![How I Passed AWS Solutions Architect Associate Certification in 25 Days](https://ytcards.demolab.com/?id=FczZKMhj2F8&title=How+I+Passed+AWS+Solutions+Architect+Associate+Certification+in+25+Days&lang=en&timestamp=1669618047&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=658 "How I Passed AWS Solutions Architect Associate Certification in 25 Days")](https://youtu.be/FczZKMhj2F8)
+[![Top 50 SQL Interview Questions - Leetcode](https://ytcards.demolab.com/?id=PRl96MQpWAE&title=Top+50+SQL+Interview+Questions&lang=en&timestamp=1684734447&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "Top 50 SQL Interview Questions - Leetcode")](https://youtu.be/PRl96MQpWAE)
+[![Nirma University ( NU ) to ZS Associates | Interview Experience](https://ytcards.demolab.com/?id=qGOXO92EW_I&title=Nirma+University+(NU)+to+ZS+Associates+Interview+Experience&lang=en&timestamp=1678258047&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786 "Nirma University ( NU ) to ZS Associates | Interview Experience")](https://youtu.be/qGOXO92EW_I)
+[![GFG Problem of the Day](https://ytcards.demolab.com/?id=9R3EI_iXL8o&title=GFG+Problem+of+the+Day&lang=en&timestamp=1667803647&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786 "GFG Problem of the Day")](https://youtu.be/9R3EI_iXL8o)
+[![Product Sales Analysis - Top Interview Question](https://ytcards.demolab.com/?id=Lar0557bsJ4&title=Product+Sales+Analysis+-+Top+Interview+Question&lang=en&timestamp=1685771247&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786 "Product Sales Analysis - Top Interview Question")](https://youtu.be/Lar0557bsJ4)
+[![IELTS Preparation Strategy](https://ytcards.demolab.com/?id=w_aGLPn9UuU&title=IELTS+Preparation+Strategy&lang=en&timestamp=1682315247&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786 "IELTS Preparation Strategy")](https://youtu.be/w_aGLPn9UuUo)
+<!-- END YOUTUBE-CARDS -->
 <br>
 
