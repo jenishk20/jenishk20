@@ -24,6 +24,17 @@
 <br>
 <br>
 
+# 🚀 GitHub Streaks
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jenishk20&include_all_commits=true" alt="jenishk20" style="width: 45%; height: auto; vertical-align: top; margin-right: 5%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenishk20&theme=light" alt="jenishk20" style="width: 45%; height: auto; vertical-align: top;" />
+</p>
+
+
+<br>
+<br>
 
 ## 🧑‍💻 Programming Proficiency
 
@@ -145,17 +156,7 @@
 <br>
 <br>
 
-# 🚀 GitHub Streaks
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jenishk20&theme=light&include_all_commits=true" alt="jenishk20" style="width: 45%; height: auto; vertical-align: top; margin-right: 5%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenishk20&theme=light" alt="jenishk20" style="width: 45%; height: auto; vertical-align: top;" />
-</p>
-
-
-<br>
-<br>
 
 # ☁️ Cloud Certifications 
 
