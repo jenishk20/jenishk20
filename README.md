@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jenish Kothari</h1>
 
 <p align="center">
-  🎓 Master's student in Computer Science at Northeastern University<br>
-  💻 Aspiring Software Developer<br>
-  🏆 Competitive Programmer
+  👨‍🎓 Master's Student in Computer Science <br>                  
+  💻 Aspiring Software Developer <br>
+  🏆 Competitive Programmer <br>
+  ☁️ 3x AWS Certified <br>
+  🤖 AI Practitioner  <br>
 </p>
 
 <p align="center">
