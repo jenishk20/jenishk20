@@ -191,11 +191,6 @@
 <br>
 <br>
 
-# 🏆 Competitive Programming
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/jk20?ext=contest" alt="LeetCode Stats" style="width: 45%; height: auto; vertical-align: middle; margin-right: 5%;" />
-<!--   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=jk_neu" alt="Codeforces Stats" style="width: 45%; height: auto; vertical-align: middle;" /> -->
-</p>
 
 <br>
 <br>
