@@ -140,6 +140,13 @@
 <br>
 
 
+# 🏆 Competitive Programming
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jk20?theme=dark&font=ABeeZee" />
+</p>
+
+
+
 <br>
 <br>
 
