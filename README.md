@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jenish Kothari</h1>
+<h1 align="center">👋 Hi, I'm Jenish Kothari</h1>
 
-<p align="center">
+<p align="center" style="font-size: 30px;">
   <strong>Software Engineering Intern @ Adobe</strong> • <strong>MS CS @ Northeastern</strong><br/>
   Passionate about building scalable systems, exploring AI, and solving complex problems.<br/>
   <strong>3× AWS Certified</strong> • <strong>AI Practitioner</strong> • <strong>Competitive Programmer</strong>
 </p>
-
 
 <p align="center">
   <a href="https://github.com/jenishk20">
