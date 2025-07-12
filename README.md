@@ -1,42 +1,113 @@
 <h1 align="center">Hi 👋, I'm Jenish Kothari</h1>
 
 <p align="center">
-  👨‍🎓 Master's Student in Computer Science <br>                  
-  💻 Aspiring Software Developer <br>
-  🏆 Competitive Programmer <br>
-  ☁️ 3x AWS Certified <br>
-  🤖 AI Practitioner  <br>
+  <strong>Software Engineering Intern @ Adobe</strong> • <strong>MS CS @ Northeastern</strong><br/>
+  Passionate about building scalable systems, exploring AI, and solving complex problems.<br/>
+  <strong>3× AWS Certified</strong> • <strong>AI Practitioner</strong> • <strong>Competitive Programmer</strong>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/jenishk20">
-    <img src="https://img.shields.io/github/followers/jenishk20?label=follow&style=social" alt="GitHub jenishk20" />
+    <img src="https://img.shields.io/github/followers/jenishk20?label=Follow&style=social" alt="GitHub Follow" />
   </a>
   <a href="https://www.linkedin.com/in/jenishkothari/">
-    <img src="https://img.shields.io/badge/-Jenish%20Kothari-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: Jenish Kothari" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jenish%20Kothari-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/JenishKothari11">
-    <img src="https://img.shields.io/twitter/follow/JenishKothari11" alt="X (formerly Twitter) Follow" />
+    <img src="https://img.shields.io/twitter/follow/JenishKothari11?style=social" alt="Twitter" />
   </a>
   <a href="https://www.youtube.com/channel/UCEaI3wsTMgViDy9yLfa45uA">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCEaI3wsTMgViDy9yLfa45uA" alt="YouTube Channel Subscribers" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCEaI3wsTMgViDy9yLfa45uA?style=social" alt="YouTube" />
   </a>
 </p>
 
 <br>
 <br>
 
-# 🚀 GitHub Streaks
-
+# 📊 GitHub Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jenishk20&include_all_commits=true" alt="jenishk20" style="width: 45%; height: auto; vertical-align: top; margin-right: 5%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenishk20&theme=light" alt="jenishk20" style="width: 45%; height: auto; vertical-align: top;" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jenishk20&theme=tokyonight" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jenishk20&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jenishk20&theme=tokyonight&hide_border=true" width="80%" />
 </p>
 
 
 <br>
 <br>
+
+
+# 🧑‍💻 Tech Stack
+<div align="center">
+
+<table style="width:95%; background-color:#0d1117; border-radius:12px; padding:20px; border-spacing:15px;">
+  <tr style="text-align:center; height:80px;">
+    <td style="padding: 10px 20px;"><strong>Languages</strong></td>
+    <td style="padding: 10px 20px;">
+      <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,solidity" height="40"/>
+    </td>
+  </tr>
+  <tr style="text-align:center; height:80px;">
+    <td style="padding: 10px 20px;"><strong>Frontend</strong></td>
+    <td style="padding: 10px 20px;">
+      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" height="40"/>
+      <img src="https://img.shields.io/badge/DaisyUI-%23725BFF.svg?style=flat&logo=daisyui&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ShadCN_UI-%23EDEDED.svg?style=flat&logo=vercel&logoColor=black"/>
+    </td>
+  </tr>
+  <tr style="text-align:center; height:80px;">
+    <td style="padding: 10px 20px;"><strong>Backend</strong></td>
+    <td style="padding: 10px 20px;">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django" height="40"/>
+      <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white"/>
+    </td>
+  </tr>
+  <tr style="text-align:center; height:80px;">
+    <td style="padding: 10px 20px;"><strong>Databases</strong></td>
+    <td style="padding: 10px 20px;">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="40"/>
+      <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+    </td>
+  </tr>
+  <tr style="text-align:center; height:80px;">
+    <td style="padding: 10px 20px;"><strong>Cloud & DevOps</strong></td>
+    <td style="padding: 10px 20px;">
+      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins" height="40"/>
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"/>
+    </td>
+  </tr>
+  <tr style="text-align:center; height:80px;">
+    <td style="padding: 10px 20px;"><strong>Data & Analytics</strong></td>
+    <td style="padding: 10px 20px;">
+      <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+    </td>
+  </tr>
+  <tr style="text-align:center; height:80px;">
+    <td style="padding: 10px 20px;"><strong>Tools & Collab</strong></td>
+    <td style="padding: 10px 20px;">
+      <img src="https://skillicons.dev/icons?i=git,github,postman" height="40"/>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+<br>
+
+<!--
 
 # 🧑‍💻 Programming Proficiency
 
@@ -106,6 +177,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
+-->
+
+<br>
+<br>
 
 
 # ☁️ Cloud Certifications 
@@ -140,11 +215,15 @@
 <br>
 
 
-# 🏆 Competitive Programming
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/jk20?theme=dark&font=ABeeZee" />
-</p>
 
+
+
+
+# 📅 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jenishk20&theme=tokyonight&hide_border=true" />
+</p>
 
 
 <br>
